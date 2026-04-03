@@ -1,4 +1,4 @@
-# 📘 Custom Digital Clock (RTL Design & Verification)
+# Custom Digital Clock (RTL Design & Verification)
 
 In this project, I designed and verified a custom digital clock using Verilog. The goal was to build the system from basic components using a structural approach, instead of relying on behavioral shortcuts.
 
@@ -11,7 +11,7 @@ It also supports loading a user-defined time and continues execution from that s
 
 ---
 
-## 🏗️ Design Details
+## Design Details
 
 The entire design is built in a modular way, similar to real hardware systems.
 
@@ -24,7 +24,7 @@ The entire design is built in a modular way, similar to real hardware systems.
 
 ---
 
-## 🧪 Verification
+## Verification
 
 A self-checking testbench was developed to validate the design.
 
