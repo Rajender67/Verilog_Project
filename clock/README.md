@@ -37,7 +37,7 @@ Simulation completed with zero mismatches.
 
 ---
 
-## 📚 Key Takeaways
+## Key Takeaways
 
 - Gained hands-on experience with structural RTL design  
 - Improved understanding of reusable hardware blocks  
